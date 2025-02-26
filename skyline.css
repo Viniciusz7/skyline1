@@ -1,0 +1,51 @@
+body{
+    background-color: hsl(0, 0%, 1%);
+    color: white;
+}
+header{
+    text-align: center;
+    box-shadow: 10px 10px 10px rgb(255, 255, 255);
+}
+nav{
+    background-color: var(--cor5);
+    padding: 10px;
+}
+nav  a {
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition-duration: 1s;
+}
+nav a:hover{
+    background-color: blue;
+    color: black;
+}
+    
+
+hr{
+    background-color: rgb(255, 255, 255)
+}
+article h1{
+    text-align: center;
+}
+article h2{
+    text-align: center;
+}
+article p{
+    text-align: center;
+}
+ div.centro{
+    text-align: center;
+    box-shadow: 10px 10px 10px rgb(255, 255, 255);
+ }
+ div.roda{
+    text-align: center;
+    box-shadow: 10px 10px 10px rgb(247, 247, 247); 
+ }
+
+div.video{
+    text-align: center;
+}
+
